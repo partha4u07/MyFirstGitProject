@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Updated by dev 2 for conflict
+=======
+Updated by dev 1 for conflict
+>>>>>>> 82e3572132f0bdadec9cee50962036e44a9503b7
 Added a new line by developer 2
