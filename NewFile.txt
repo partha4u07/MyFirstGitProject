@@ -1,2 +1,2 @@
-This was a new line by Developer 1
+Updated by dev 1 for conflict
 Added a new line by developer 2
